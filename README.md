@@ -1,6 +1,7 @@
 # Dev-Web-P5-Construisez-un-site-e-commerce-en-Javascript
 
-Etat du projet lors du passage de la soutenance.
+- Etat du projet lors du passage de la soutenance.
+- Seulement les pages Javascript Front-End étaient demandées dans ce projet. Les pages HTML, CSS et le Back-End étaient fournis d'avance.
 
 
 # Kanap #
